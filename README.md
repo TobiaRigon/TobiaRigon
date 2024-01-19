@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Hi, I'm Tobia Rigon!
+
+🚀 Junior Fullstack Developer with a passion for coding and ongoing learning. Experienced in CGI and eager to contribute to innovative projects.
+
+💻 Actively exploring frontend and backend technologies. Let's code something amazing!
+
+Keep coding! ✨
 
 <!--
 **TobiaRigon/TobiaRigon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

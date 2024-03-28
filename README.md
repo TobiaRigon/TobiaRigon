@@ -1,4 +1,4 @@
-👋 Hi, I'm Tobia Rigon!
+## 👋 Hi, I'm Tobia Rigon!
 
 🚀 Junior Fullstack Developer with a passion for coding and ongoing learning. Experienced in CGI and eager to contribute to innovative projects.
 

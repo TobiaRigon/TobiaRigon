@@ -16,7 +16,7 @@ A little bit of everything lives here: internal-tool experiments, learning proje
 - [DiscreetTab](https://github.com/TobiaRigon/DiscreetTab)
 - [PLW-template](https://github.com/TobiaRigon/PLW-template)
 
-You can also check out my portfolio at [my.tobiarigon.com](https://my.tobiarigon.com).
+You can also check out my portfolio at [🔺tobiarigon.com](https://tobiarigon.com).
 
 Feel free to explore all my repositories to gain a comprehensive understanding of my skills and development journey.
 

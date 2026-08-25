@@ -1,14 +1,14 @@
-# Tobia Rigon - Junior Fullstack Developer 👨‍💻
+# Tobia Rigon - IT & Internal Tools 👨‍💻
 
 ## About Me ℹ️
 
-Hi, I'm Tobia Rigon, a Junior Fullstack Developer and IT Support Specialist working in a high-end fashion manufacturing company. My role bridges development and infrastructure: I build internal web applications (mainly with PHP and JavaScript), manage Windows/Linux environments, and support production teams in an Industry 4.0 context.
+I’ve been working in IT for almost 3 years, building internal tools and web apps for a manufacturing company — mostly to make production processes smoother (and a bit less painful). Many of my projects are AI-assisted, with PHP, JavaScript and whatever else gets the job done.
 
-I started my career in CGI 3D with Maya, but shifted focus to software development and IT operations, driven by a passion for technology, problem-solving, and automation. I’m constantly learning and aiming to grow into a more advanced developer with solid DevOps and web dev.
+This profile is a mixed bag: professional stuff, side projects, experiments, hobbies and the occasional bit of coding just for fun. Have a look around 🚀
 
 ## GitHub Repository 🚀
 
-My GitHub showcases my technical growth since late 2023. It includes exercises, experiments, complete apps, and even unfinished projects—because progress is not always linear.
+A little bit of everything lives here: internal-tool experiments, learning projects, hobby ideas, prototypes and the occasional piece of code written just because I could.
 
 - [proj-html-vuejs](https://github.com/TobiaRigon/proj-html-vuejs)
 - [BoolBnB](https://github.com/TobiaRigon/boolBnB)

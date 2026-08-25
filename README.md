@@ -2,7 +2,7 @@
 
 ## About Me ℹ️
 
-I’ve been working in IT for almost 3 years, building internal tools and web apps for a manufacturing company — mostly to make production processes smoother (and a bit less painful). Many of my projects are AI-assisted, with PHP, JavaScript and whatever else gets the job done.
+I’ve been working in IT for almost 3 years, building internal tools and web apps for a manufacturing company — mostly to make production processes smoother (and a bit less painful). Many of my projects are AI-assisted, using whatever tools get the job done.
 
 This profile is a mixed bag: professional stuff, side projects, experiments, hobbies and the occasional bit of coding just for fun. Have a look around 🚀
 
